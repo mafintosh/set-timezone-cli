@@ -1,9 +1,9 @@
-# set-timezone
+# set-timezone-cli
 
 CLI tool to set your timezone based on a place name.
 
 ```
-npm install -g set-timezone
+npm install -g set-timezone-cli
 set-timezone copenhagen
 ```
 
