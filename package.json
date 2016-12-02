@@ -1,0 +1,20 @@
+{
+  "name": "set-timezone",
+  "version": "0.0.0",
+  "description": "CLI tool to set your timezone based on a place name.",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/set-timezone.git"
+  },
+  "bin": {
+    "set-timezone": "./index.sh"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/set-timezone/issues"
+  },
+  "homepage": "https://github.com/mafintosh/set-timezone"
+}
