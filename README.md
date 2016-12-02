@@ -9,6 +9,10 @@ set-timezone copenhagen
 
 Currently works on Mac. PR welcome for more platforms.
 
+## Motivation
+
+Try opening the world map and click try and hit Copenhagen.
+
 ## License
 
 MIT
